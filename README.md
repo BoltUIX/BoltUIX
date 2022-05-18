@@ -1,2 +1,2 @@
-# BoltUIX-compose
-Get started with Bolt UIX free templates https://boltuix.blogspot.com/
+# BoltUIX
+Get started with Bolt UIX free templates https://www.boltuix.com/
